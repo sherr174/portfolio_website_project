@@ -9,7 +9,7 @@ import Nav_bar from '@/components/nav_bar.vue'
     </header>
 
     <section class="content">
-      <router-view />
+      <router-view/>
     </section>
 
     <footer>Made by Wil Fall '25</footer>
@@ -18,17 +18,15 @@ import Nav_bar from '@/components/nav_bar.vue'
 
 <style scoped>
   section.container {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: flex;
     flex-direction: column;
-    gap: 10px;
     > * {
-      border: 1px solid black;
     }
 
     .content {
-      background-color: blanchedalmond;
-      padding: 10px;
-      border-radius: 10px;
+      background-color: #ded6e8;
+      padding: 20px;
 
       p {
         &:first-of-type {
