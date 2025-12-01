@@ -5,7 +5,7 @@ import LogoSvg from '@/assets/logo-svg.vue'
 <template>
   <div class="container">
     <div class="logo">
-      <logo-svg/>
+      <router-link :to="{ name: 'portfolio' }"><logo-svg/></router-link>
     </div>
 
     <div class="links">

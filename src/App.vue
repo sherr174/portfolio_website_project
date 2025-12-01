@@ -1,18 +1,21 @@
 <script setup>
 import Nav_bar from '@/components/nav_bar.vue'
+import FooterWilWil from '@/components/footer_wil.vue'
 </script>
 
 <template>
   <section class="container">
     <header>
-      <nav_bar />
+      <nav_bar/>
     </header>
 
     <section class="content">
       <router-view/>
     </section>
 
-    <footer>Made by Wil Fall '25</footer>
+    <footer>
+      <footer-wil-wil/>
+    </footer>
   </section>
 </template>
 
@@ -37,11 +40,6 @@ import Nav_bar from '@/components/nav_bar.vue'
           margin-bottom: 0;
         }
       }
-    }
-
-    footer {
-      text-align: center;
-      padding: 10px;
     }
   }
 </style>
