@@ -3,6 +3,7 @@ import portfolio from '@/views/portfolio/portfolio.vue'
 import about_me from '@/views/about_me.vue'
 import contact_me from '@/views/contact_me.vue'
 import item_details from '@/views/portfolio/item_details.vue'
+import thank_you from '@/views/thank_you.vue'
 
 const routes = [
   {
@@ -29,6 +30,11 @@ const routes = [
     path: '/contact_me',
     name: 'contact_me',
     component: contact_me,
+  },
+  {
+    path: '/thank_you',
+    name: 'thank_you',
+    component: thank_you,
   },
 ]
 

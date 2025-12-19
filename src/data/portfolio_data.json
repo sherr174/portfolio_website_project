@@ -6,10 +6,10 @@
     "thumbnail": "vancouver_thumbnail.png",
     "season_created": "Fall '24",
     "class": "Design & its Discontents Honors",
-    "type": ["Branding","Sports Design"],
-    "applications": ["Adobe Illustrator","Adobe photoshop"],
-    "Description": "A paragraph about the project and parameters would go here",
-    "project_images": ["placeholder_image.jpg"]
+    "type": "Branding & Sports Design",
+    "applications": "Adobe Illustrator & Adobe photoshop",
+    "description": "The Vancouver Orcas started as a passion project for designing my own professional hockey league. I chose this team for the final project in Design & Its Discontents Honors, where we had to design anything of our choosing that related to Society, Economics, or Culture. I took the logo and developed the brand around the Vancouver Orcas to showcase the culture of Vancouver and British Columbia as a whole. I created a logo suite, jerseys, social media graphics, and merchandise to fully showcase the brand and connect to the culture in Vancouver.",
+    "project_images": ["orca_header.png", "orca_logos.png", "orca_inaugural.png", "orca_jerseys.png", "orca_merch.png", "orca_socials.png"]
   },
   {
     "id": 2,
@@ -18,10 +18,10 @@
     "thumbnail": "tanuki_thumbnail.png",
     "date_created": "Spring '25",
     "class": "User Experience in Design",
-    "type": ["UX","UI","Branding"],
-    "applications": ["Figma","Adobe Illustrator"],
-    "Description": "A paragraph about the project and parameters would go here",
-    "project_images": ["placeholder_image.jpg"]
+    "type": "UX & UI & Branding",
+    "applications": "Figma & Adobe Illustrator",
+    "description": "Tanuki is a hiking scavenger app meant for a wearable watch. This project was made in User Experience in Design, where we had to design and prototype an app meant for a screen that wasn’t a phone. The main idea behind the app is to allow people to get more immersed in hiking without having to look at their phones and miss the nature around them. Tanuki allows frequent hikers to repeat trails, with each being interesting and different every time.",
+    "project_images": ["tanuki_explain.png", "tanuki_mock.png"]
   },
   {
     "id": 3,
@@ -31,20 +31,20 @@
     "season_created": "Fall '25",
     "class": "Identity & Symbols",
     "type": "Branding",
-    "applications": ["Adobe Illustrator","Adobe photoshop"],
-    "Description": "A paragraph about the project and parameters would go here",
+    "applications": "Adobe Illustrator & Adobe photoshop",
+    "description": "A paragraph about the project and parameters would go here",
     "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
   },
   {
     "id": 4,
-    "title": "Bosco",
-    "subtitle": "Wisconsin Pasta",
-    "thumbnail": "bosco_thumbnail.png",
+    "title": "Calonaut",
+    "subtitle": "Cultural Hot Sauce",
+    "thumbnail": "calonaut_thumbnail.png",
     "season_created": "Fall '25",
     "class": "Packaging and Display",
-    "type": ["Packaging","Branding"],
-    "applications": ["Adobe Illustrator","Psychical Construction","Adobe photoshop"],
-    "Description": "A paragraph about the project and parameters would go here",
+    "type": "Packaging & Branding",
+    "applications": "Adobe Illustrator & Psychical Construction",
+    "description": "A paragraph about the project and parameters would go here",
     "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
   },
   {
@@ -54,9 +54,9 @@
     "thumbnail": "genaroo_thumbnail.png",
     "season_created": "Spring '25",
     "class": "Packaging and Display",
-    "type": ["Packaging","Branding"],
-    "applications": ["Adobe Illustrator","Adobe Photoshop"],
-    "Description": "A paragraph about the project and parameters would go here",
+    "type": "Packaging & Branding",
+    "applications": "Adobe Illustrator & Adobe Photoshop",
+    "description": "A paragraph about the project and parameters would go here",
     "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
 },
   {
@@ -65,10 +65,10 @@
     "subtitle": "Professional Soccer Team",
     "thumbnail": "windsor_thumbnail.png",
     "season_created": "Spring '24",
-    "class": "Personal",
-    "type": ["Branding","Sports Design"],
-    "applications": ["Adobe Illustrator","Psychical Construction","Adobe photoshop"],
-    "Description": "A paragraph about the project and parameters would go here",
+    "class": "Personal Project",
+    "type": "Branding & Sports Design",
+    "applications": "Adobe Illustrator & Adobe photoshop",
+    "description": "A paragraph about the project and parameters would go here",
     "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
   }
 ]

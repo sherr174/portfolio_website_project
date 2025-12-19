@@ -24,11 +24,13 @@ import FooterWilWil from '@/components/footer_wil.vue'
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+
     > * {
     }
 
     .content {
-      background-color: #ded6e8;
       padding: 20px;
 
       p {
@@ -41,5 +43,8 @@ import FooterWilWil from '@/components/footer_wil.vue'
         }
       }
     }
+  }
+
+  footer {
   }
 </style>

@@ -22,7 +22,6 @@ div.container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  //flex-direction: column; (had links stacked under logo)
   gap: 20px;
   padding: 10px;
   background: url('../assets/header_repeat.gif') center center repeat-x;
@@ -36,7 +35,6 @@ div.container {
 
 div.links {
   display: flex;
-  //flex-direction: row;
   gap: 20px;
   font-weight: bold;
   text-align: center;
@@ -56,6 +54,7 @@ div.links {
     }
   }
 }
+
 @media (max-width: 800px) {
   div.container {
     flex-direction: column;
