@@ -32,8 +32,8 @@
     "class": "Identity & Symbols",
     "type": "Branding",
     "applications": "Adobe Illustrator & Adobe photoshop",
-    "description": "A paragraph about the project and parameters would go here",
-    "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
+    "description": "Arktis is an active Arctic wear brand that started in Svalbard, Norway. This project was made for Identity and Symbols, where we had to create and develop a brand that fit into one of three categories: Food and Beverage, Entertainment/Restaurant, and Fashion and/or Fitness. I enjoy hiking and have always wanted to hike in the winter, so I created a brand that reflects my desire to be in a winter wonderland. This brand is meant to keep you warm without overheating you while hiking.",
+    "project_images": ["arktis_sketch.png","arktis_concepts.png", "arktis_refinements.png", "arktis_stylesheet.png", "arktis_mocks.png"]
   },
   {
     "id": 4,
@@ -44,8 +44,8 @@
     "class": "Packaging and Display",
     "type": "Packaging & Branding",
     "applications": "Adobe Illustrator & Psychical Construction",
-    "description": "A paragraph about the project and parameters would go here",
-    "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
+    "description": "Calonaut is a culturally unique hot sauce brand that brings uncommon flavors to everyone. This project was made for Packaging and Display, where we had to design and create a label for a cylindrical product. We also had to mock up and physically build a point-of-purchase display that showcases the brand and attracts customers in a supermarket. The brand plays into graffiti and local culture to highlight the flavors and uses bright colors to draw the customer's attention.",
+    "project_images": ["calonaut_concepts.png","calonaut_Ldesign.png","calonaut_Lphotos.png","calonaut_Ddesign.png", "calonaut_Dphotos.png"]
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "class": "Packaging and Display",
     "type": "Packaging & Branding",
     "applications": "Adobe Illustrator & Adobe Photoshop",
-    "description": "A paragraph about the project and parameters would go here",
-    "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
+    "description": "Genaroo is an Aboriginal art brand based in Australia that makes authentic, natural paint products that are affordable and high-quality. This project was designed for Packaging and Display, with the objective of creating a line of products with three different dimensions. We had to design within different constraints and showcase the brand’s versatility while staying consistent with design rules. I also had the brand represent Aboriginal people from Australia to add another dimension to the design rules.",
+    "project_images": ["genaroo_sketches.png","genaroo_refinements.png","genaroo_design.png","genaroo_mocks.png"]
 },
   {
     "id": 6,
@@ -68,7 +68,7 @@
     "class": "Personal Project",
     "type": "Branding & Sports Design",
     "applications": "Adobe Illustrator & Adobe photoshop",
-    "description": "A paragraph about the project and parameters would go here",
-    "project_images": ["path/to/img/1","path/to/img/2","path/to/img/3","path/to/img/4"]
+    "description": "Royal Windsor is a personal project about a professional soccer team in Windsor, England. The idea behind Royal Windsor was that it would be the team for the royal family of England. The royal family's castle is in Windsor, and foxes are all over England. I wanted to make a team that was different from most Premier League teams in having a royal connotation. It’s uncommon for teams to have that affiliation, and I wanted to lean into it and make it the team's personality.\n",
+    "project_images": ["windsor_open.png","windsor_home.png","windsor_away.png","windsor_third.png", "windsor_details.png"]
   }
 ]
